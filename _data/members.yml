@@ -1,0 +1,20 @@
+# Add members here. PI first, then PhD students, postdocs, etc.
+# Fields: name, role, photo (URL or path), bio, website, scholar, github, cv
+
+principal_investigator:
+  - name: Tirtharaj Dash
+    role: Assistant Professor, Department of Computer Science
+    photo: https://tirtharajdash.github.io/assets/img/prof_pic5.jpg
+    bio: >
+      Tirtharaj works on neurosymbolic AI, graph representation learning, and AI for science
+      (computational biology, genomics, drug discovery). Previously a postdoc at the University
+      of Cambridge (Trinity College) and UC San Diego. PhD from BITS Pilani (2022).
+    website: https://tirtharajdash.github.io
+    scholar: https://scholar.google.com/citations?user=1ZcwKZEAAAAJ
+    github: https://github.com/tirtharajdash
+    cv: https://tirtharajdash.github.io/vitae/TirtharajDash.pdf
+
+phd_students: []
+postdocs: []
+project_students: []
+alumni: []

@@ -1,0 +1,35 @@
+/* Minor overrides on minima classic skin for MAHI Lab */
+
+.site-header {
+  border-top: 4px solid #1a3a5c;
+}
+
+.site-title {
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+.site-nav .page-link {
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+/* tighten post-list used on home page */
+.post-list > li {
+  border-bottom: 1px solid #e8e8e8;
+  padding-bottom: 0.5rem;
+}
+
+.site-footer {
+  border-top: 2px solid #1a3a5c;
+}
+
+/* news list on home page */
+ul li {
+  margin-bottom: 0.4rem;
+}
+
+h2, h3 {
+  color: #1a3a5c;
+}

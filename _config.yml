@@ -1,0 +1,33 @@
+title: MAHI Lab
+email: tirtharaj@goa.bits-pilani.ac.in
+description: >-
+  Machine-and-Human Intelligence Lab.
+  Department of CS & IS, BITS Pilani, Goa Campus.
+baseurl: ""
+url: "https://mahi-group.github.io"
+
+theme: minima
+minima:
+  skin: classic
+
+# Pages shown in the nav bar (order matters)
+header_pages:
+  - members.md
+  - research.md
+  - publications.md
+  - opportunities.md
+
+# Disable default minima social footer links
+# (add yours below if you want them)
+minima:
+  social_links: []
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - .git

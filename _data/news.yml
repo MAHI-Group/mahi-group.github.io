@@ -1,0 +1,9 @@
+# Add news items here. Newest first.
+# Fields: date, text, link (optional), link_text (optional)
+
+- date: "Apr 2026"
+  text: >
+    We are hiring! We are looking for motivated PhD students, postdocs (with own fellowship),
+    and thesis/project students interested in neurosymbolic AI and AI for science.
+  link: /opportunities
+  link_text: "See opportunities"
