@@ -54,6 +54,8 @@ and mechanistic interpretability is essential. We work on:
   macrophage polarisation, and single-cell transcriptomics.
 - **Drug discovery**: neurosymbolic models for novel lead generation, molecular property
   prediction via GNNs, and explainable compound screening.
+  
+Research in these direction will involve collaborating with scientists from these fields.
 
 
 ### Causality

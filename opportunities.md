@@ -5,7 +5,7 @@ permalink: /opportunities/
 ---
 
 We are looking for motivated people to join MAHI Lab. If you are interested in
-neurosymbolic AI, graph neural networks, causal machine learning or AI for science (genomics, drug discovery),
+neurosymbolic AI, graph neural networks, causal machine learning or AI for science (computational biology, drug discovery),
 read the relevant section and reach out.
 
 Strong programming skills in Python/PyTorch and a background in AI/ML or computational
@@ -49,12 +49,12 @@ if the student is interested in pursuing a PhD with our group.
 
 ### Project / Internship Students
 
-**BITS Students** — Study-Oriented Projects (SOP), Practice School, and summer research
+**BITS Students**: Study-Oriented Projects (SOP), Practice School, and summer research
 internships are available.
 See the [current summer 2026 application form](https://docs.google.com/forms/d/e/1FAIpQLSeA6SSZYMMEDYx2eTDa1xZHh4Zr10T0Lczoe373UsIGqSSEDQ/viewform?usp=header).
 Keep watching for such Opportunities.
 
-**External Students** — Short-term visits (2–3 months) may be arranged for students with a
+**External Students**: Short-term visits (2–3 months) may be arranged for students with a
 strong ML/AI background and a specific project interest. We do not have funding for external
 interns; you must have your own support, including stay outside the institute campus.
 
