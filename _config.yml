@@ -12,7 +12,7 @@ logo: "/images/lab_logo_cropped.png"
 words_per_minute: 160
 
 # Theme skin (default, air, contrast, dark, dirt, mint, neon, plum, sunrise)
-minimal_mistakes_skin: "default"
+minimal_mistakes_skin: "sunrise"
 
 comments:
   provider: false
@@ -20,13 +20,12 @@ comments:
 # Sidebar author profile.
 # Drop your photo at /images/prof_pic.jpg, or delete the avatar line to omit it.
 author:
-  name: "Tirtharaj Dash"
+  name: "MAHI Lab"
   avatar: "/images/lab_logo_try1.png"
-  bio: "Neurosymbolic AI, AI for Science, Deep Learning. PI of MAHI Lab."
-  location: "BITS Pilani, Goa Campus, India"
+  bio: "Machine-and-Human Intelligence Lab. AI for Science at BITS Pilani, Goa."
+  location: "BITS Pilani, Goa, India"
   email: "tirtharaj@goa.bits-pilani.ac.in"
-  googlescholar: "https://scholar.google.com/citations?user=1ZcwKZEAAAAJ"
-  github: "tirtharajdash"
+  github: "MAHI-Group"
 
 footer:
   links:
