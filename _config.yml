@@ -8,7 +8,7 @@ description: "Machine-and-Human Intelligence Lab, Department of Computer Science
 url: "https://mahi-group.github.io"
 baseurl: ""
 repository: "MAHI-Group/mahi-group.github.io"
-logo: "lab_logo_cropped.png"
+logo: "/images/lab_logo_cropped.png"
 words_per_minute: 160
 
 # Theme skin (default, air, contrast, dark, dirt, mint, neon, plum, sunrise)
