@@ -1,0 +1,34 @@
+---
+title: "Publications"
+permalink: /publications/
+layout: archive
+author_profile: true
+---
+
+{% include base_path %}
+
+<p>Publications from MAHI Lab will be listed here as the group grows. For the PI's
+complete record (including work prior to MAHI Lab), see
+<a href="https://scholar.google.com/citations?user=1ZcwKZEAAAAJ">Google Scholar</a>
+and <a href="https://tirtharajdash.github.io/publications/">tirtharajdash.github.io/publications</a>.</p>
+
+{% if site.publications.size > 0 %}
+  {% for post in site.publications reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}
+
+<!--
+To add a publication, create a file in _publications/ named YYYY-MM-DD-slug.md
+with this front matter:
+
+---
+title: "Paper title"
+collection: publications
+permalink: /publications/2026-01-01-slug
+date: 2026-01-01
+venue: "Journal or conference"
+paperurl: "https://link-to-pdf"
+citation: "Authors. (Year). Title. Venue."
+---
+-->
