@@ -27,15 +27,17 @@ project_students:
       Achyuth is working on protein representation learning.
     website: https://www.linkedin.com/in/ramayanam-naga-achyuth-34b550374
     github: https://github.com/CBcoderr
+    
   - name: Abhiram S.
     role: Summer Research Student, BGSRP 2026 Program
     photo: 
     bio: >
       Abhiram is working on protein representation learning and bioinformatics.
     website: https://rams-info-in.github.io/
-    github:
+    github: https://github.com/rams-info-in
+    
   - name: Hitaeshi Sehgal
-    role: Visiting student (online)
+    role: Visiting student (Summer 2026, online)
     photo: 
     bio: >
       Hitaeshi is working on protein representation learning.
