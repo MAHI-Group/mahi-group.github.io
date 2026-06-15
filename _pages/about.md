@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Machine-and-Human Intelligence Lab"
-excerpt: "AI for Science at BITS Pilani, Goa."
+#excerpt: "We do AI for Science at BITS Pilani, Goa Campus."
 layout: single
 author_profile: true
 redirect_from:
@@ -9,27 +9,26 @@ redirect_from:
   - /about.html
 ---
 
-The Machine-and-Human Intelligence Lab (MAHI Lab) is a research group in the
-Department of Computer Science at BITS Pilani, K K Birla Goa Campus, India.
-
+We are a small research group within the BITS Pilani, Goa Campus.
 We do AI for Science: building machine intelligence that works alongside human
-reasoning to accelerate scientific discovery. Our conviction is that AI systems
+reasoning to accelerate scientific discovery. 
+Our conviction is that AI systems
 must go beyond pattern recognition; they need to reason, explain, and collaborate
 with humans in the pursuit of scientific knowledge.
 
-## Research themes
+Our primary focus areas are these:
 
-Neurosymbolic AI: integrating deep neural networks with symbolic methods such as
+ - **Neurosymbolic AI**: integrating deep neural networks with symbolic methods such as
 Inductive Logic Programming to build models that are accurate, interpretable, and
 data-efficient.
 
-Deep learning: sequence models, transformers, LLMs, uncertainty quantification,
-and explainability, with a focus on reliability for scientific applications.
+ - **Deep learning**: sequence models, transformers, LLMs, uncertainty quantification,
+and explainability, with a focus on reliability for scientific applications. 
 
-Computational biology and drug discovery: AI for gene regulation, genomic
+ - **AI for Science**: AI for gene regulation, genomic
 foundation models, multi-omics cancer analysis, and early-stage drug design.
 
-Causality: causal machine learning methods that go beyond correlation to discover
+ - **Causal ML**: exploring causal machine learning methods that go beyond correlation to discover
 causal structure in biological and clinical data.
 
 [Read more about our research](/research/)

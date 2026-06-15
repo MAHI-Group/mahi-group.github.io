@@ -11,8 +11,8 @@ repository: "MAHI-Group/mahi-group.github.io"
 logo: "/images/lab_logo_cropped.png"
 words_per_minute: 160
 
-# Theme skin (default, air, contrast, dark, dirt, mint, neon, plum, sunrise)
-minimal_mistakes_skin: "sunrise"
+# Theme (default, air, sunrise, mint, dirt, contrast); each has light + dark, chosen by visitor OS
+site_theme: "sunrise"
 
 comments:
   provider: false
