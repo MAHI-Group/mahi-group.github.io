@@ -18,12 +18,11 @@ comments:
   provider: false
 
 # Sidebar author profile.
-# Drop your photo at /images/prof_pic.jpg, or delete the avatar line to omit it.
 author:
   name: "MAHI Lab"
   avatar: "lab_logo_cropped.png"
-  bio: "Machine-and-Human Intelligence Lab. AI for Science at BITS Pilani, Goa."
-  location: "BITS Pilani, Goa, India"
+  bio: "ā no bhadrāḥ kratavo yantu viśvataḥ — let noble thoughts come to us from every side."
+  location: "BITS Pilani, Goa Campus, India"
   email: "tirtharaj@goa.bits-pilani.ac.in"
   github: "MAHI-Group"
 

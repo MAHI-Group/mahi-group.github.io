@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "We do AI for Science at BITS Pilani, Goa Campus."
+title: "Machine-and-Human Intelligence Lab"
+excerpt: "We do AI for Science at BITS Pilani, Goa Campus."
 layout: single
 author_profile: true
 redirect_from:

@@ -34,5 +34,12 @@ project_students:
       Abhiram is working on protein representation learning and bioinformatics.
     website: https://rams-info-in.github.io/
     github:
+  - name: Hitaeshi Sehgal
+    role: Visiting student (online)
+    photo: 
+    bio: >
+      Hitaeshi is working on protein representation learning.
+    website: https://linkedin.com/in/hitaeshi-sehgal-1b5aa32a8
+    github: https://github.com/littlemissmuffins
 
 alumni: []
