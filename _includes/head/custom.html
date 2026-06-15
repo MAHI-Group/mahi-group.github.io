@@ -3,13 +3,32 @@
 <!-- start custom head snippets -->
 
 <style>
+  /* 1. Stop the theme inflating the base font on big screens (defaults to 16/18/20/22px) */
+  html { font-size: 16px !important; }
+  @media (min-width: 48em) { html { font-size: 16px !important; } }
+  @media (min-width: 64em) { html { font-size: 17px !important; } }
+  @media (min-width: 80em) { html { font-size: 18px !important; } }
+
+  /* 2. Bigger masthead logo (raise the value to taste) */
+  .site-logo img { max-height: 2.8rem; }
+
+  /* 3. Sidebar: square logo, stacked on every screen so info sits below, not beside */
+  .author__avatar,
+  .author__content {
+    display: block !important;
+    float: none !important;
+    width: auto !important;
+  }
+  .author__avatar { text-align: center; margin-bottom: 0.5rem; }
   .author__avatar img {
     border-radius: 0 !important;
     border: 0 !important;
     padding: 0 !important;
     box-shadow: none !important;
-    max-width: 100% !important;
+    max-width: 180px !important;
+    height: auto !important;
   }
+  .author__content { padding-left: 0 !important; }
 </style>
 
 <!-- Support for Academicons -->
