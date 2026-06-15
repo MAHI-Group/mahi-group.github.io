@@ -10,20 +10,23 @@ human reasoning to accelerate scientific discovery. Our core conviction is that 
 systems must go beyond pattern recognition: they need to reason, explain, and
 collaborate with humans in the pursuit of scientific knowledge. To that end, we
 develop methods that combine the scalability of modern deep learning with the
-interpretability and structure of symbolic reasoning, and apply them to hard open
-problems in computational biology and drug discovery.
+interpretability and structure of symbolic reasoning, and apply them to real-world
+scientific problems in computational biology and drug discovery. 
+But if you think your problem is important and you want to collaborate with us, 
+please feel free to write to the PI.
 
 ## Neurosymbolic AI
 
-Statistical learning and symbolic reasoning have complementary strengths. Neural
-networks learn well from large, noisy data but are opaque and data-hungry. Symbolic
-methods such as Inductive Logic Programming (ILP) are interpretable and data-efficient
+Statistical learning and symbolic reasoning have complementary strengths. Deep neural
+networks learn well from large, noisy data but are opaque and data-hungry. 
+Symbolic methods such as Inductive Logic Programming (ILP) are interpretable and data-efficient
 but do not scale to raw data easily. We build neurosymbolic methods that integrate
 both: neural networks guided by symbolic domain knowledge, and symbolic engines that
 learn from neural representations.
 
 Key contributions include Compositional Relational Machines (CRMs), knowledge-guided
-graph neural networks (BotGNN, VEGNN), and methods for extracting interpretable rules
+graph neural networks (BotGNN, VEGNN), symbolic neural generation (SNG), 
+and methods for extracting interpretable rules
 from trained networks. Applications span drug discovery, genomics, and other scientific
 domains where both data and prior knowledge are available.
 
@@ -39,7 +42,7 @@ We also study large language models (LLMs) for scientific tasks, including using
 with logical feedback for molecular design, and building genomic foundation models that
 capture regulatory and codon-usage patterns across eukaryotes.
 
-## Computational Biology and Drug Discovery
+## AI for Science
 
 Biology is a natural domain for AI for Science: the data are vast, the problems are
 hard, and mechanistic interpretability is essential. We work on:
@@ -55,7 +58,7 @@ hard, and mechanistic interpretability is essential. We work on:
 
 Research in these directions involves collaborating with scientists from these fields.
 
-## Causality
+## Causal Machine Learning
 
 Correlation-based models are brittle: they fail under distribution shift and cannot
 answer interventional or counterfactual questions that science demands. We are

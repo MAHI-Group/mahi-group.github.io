@@ -1,0 +1,14 @@
+<div style="display:flex; gap:1.2rem; align-items:flex-start; margin-bottom:1.5rem; padding:1rem; border:1px solid rgba(128,128,128,0.35); border-radius:6px;">
+  {% if include.member.photo %}<img src="{{ include.member.photo }}" alt="{{ include.member.name }}" style="width:90px; height:90px; border-radius:50%; object-fit:cover; flex-shrink:0;" />{% endif %}
+  <div>
+    <strong style="font-size:1.05rem;">{{ include.member.name }}</strong><br/>
+    {% if include.member.role %}<span style="font-size:0.9rem; opacity:0.75;">{{ include.member.role }}</span><br/>{% endif %}
+    {% if include.member.bio %}<p style="font-size:0.9rem; margin:0.4rem 0 0.5rem;">{{ include.member.bio }}</p>{% endif %}
+    <span style="font-size:0.85rem;">
+      {% if include.member.website %}<a href="{{ include.member.website }}">[Website]</a> {% endif %}
+      {% if include.member.scholar %}<a href="{{ include.member.scholar }}">[Google Scholar]</a> {% endif %}
+      {% if include.member.github %}<a href="{{ include.member.github }}">[GitHub]</a> {% endif %}
+      {% if include.member.cv %}<a href="{{ include.member.cv }}">[CV]</a> {% endif %}
+    </span>
+  </div>
+</div>

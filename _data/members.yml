@@ -8,13 +8,31 @@ principal_investigator:
     bio: >
       Tirtharaj works on neurosymbolic AI, graph representation learning, and AI for science
       (computational biology, genomics, drug discovery). Previously a postdoc at the University
-      of Cambridge (Trinity College) and UC San Diego. PhD from BITS Pilani (2022).
+      of Cambridge (and a postdoc-affiliate of the Trinity College) and UC San Diego. 
+      PhD in Machine Learning from BITS Pilani (2022).
     website: https://tirtharajdash.github.io
     scholar: https://scholar.google.com/citations?user=1ZcwKZEAAAAJ
     github: https://github.com/tirtharajdash
     cv: https://tirtharajdash.github.io/vitae/TirtharajDash.pdf
 
 phd_students: []
+
 postdocs: []
-project_students: []
+
+project_students:
+  - name: Ramayanam Naga Achyuth
+    role: Summer Research Student, BGSRP 2026 Program
+    photo: 
+    bio: >
+      Achyuth is working on protein representation learning.
+    website: https://www.linkedin.com/in/ramayanam-naga-achyuth-34b550374
+    github: https://github.com/CBcoderr
+  - name: Abhiram S.
+    role: Summer Research Student, BGSRP 2026 Program
+    photo: 
+    bio: >
+      Abhiram is working on protein representation learning and bioinformatics.
+    website: https://rams-info-in.github.io/
+    github:
+
 alumni: []

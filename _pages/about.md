@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-We are a small research group within the BITS Pilani, Goa Campus.
+We are a research group within the BITS Pilani, Goa Campus.
 We do AI for Science: building machine intelligence that works alongside human
 reasoning to accelerate scientific discovery. 
 Our conviction is that AI systems
@@ -26,7 +26,7 @@ data-efficient.
 and explainability, with a focus on reliability for scientific applications. 
 
  - **AI for Science**: AI for gene regulation, genomic
-foundation models, multi-omics cancer analysis, and early-stage drug design.
+foundation models, multi-omics cancer analysis, and early-stage drug discovery.
 
  - **Causal ML**: exploring causal machine learning methods that go beyond correlation to discover
 causal structure in biological and clinical data.
