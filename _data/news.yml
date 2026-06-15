@@ -1,6 +1,14 @@
 # Add news items here. Newest first.
 # Fields: date, text, link (optional), link_text (optional)
 
+- date: "05 Jun 2026"
+  text: >
+    pVR paper is out. Check the preprint on [arXiv](https://arxiv.org/abs/2606.06117).
+
+- date: "28 May 2026"
+  text: >
+    BIRDNet paper is out. Check the preprint on [arXiv](https://arxiv.org/abs/2605.28739).
+
 - date: "Apr 2026"
   text: >
     We are hiring! We are looking for motivated PhD students, postdocs (with own fellowship),

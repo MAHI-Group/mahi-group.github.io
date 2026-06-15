@@ -1,34 +1,25 @@
 ---
 title: "Publications"
 permalink: /publications/
-layout: archive
+layout: single
 author_profile: true
 ---
 
-{% include base_path %}
-
-<p>Publications from MAHI Lab will be listed here as the group grows. For the PI's
-complete record (including work prior to MAHI Lab), see
-<a href="https://scholar.google.com/citations?user=1ZcwKZEAAAAJ">Google Scholar</a>
-and <a href="https://tirtharajdash.github.io/publications/">tirtharajdash.github.io/publications</a>.</p>
+<p>Publications from MAHI Lab. For the PI's full record, including work before the
+lab, see <a href="https://scholar.google.com/citations?user=1ZcwKZEAAAAJ">Google Scholar</a>.</p>
 
 {% if site.publications.size > 0 %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
+<ul style="list-style:none; padding-left:0;">
+{% for post in site.publications reversed %}
+  <li style="margin-bottom:1.1rem;">
+    {% if post.paperurl %}<a href="{{ post.paperurl }}" style="font-weight:600;">{{ post.title }}</a>{% else %}<span style="font-weight:600;">{{ post.title }}</span>{% endif %}<br/>
+    <span style="opacity:0.75; font-size:0.92rem;">{{ post.venue }}{% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}.</span>
+  </li>
+{% endfor %}
+</ul>
 {% endif %}
 
 <!--
-To add a publication, create a file in _publications/ named YYYY-MM-DD-slug.md
-with this front matter:
-
----
-title: "Paper title"
-collection: publications
-permalink: /publications/2026-01-01-slug
-date: 2026-01-01
-venue: "Journal or conference"
-paperurl: "https://link-to-pdf"
-citation: "Authors. (Year). Title. Venue."
----
+Add a publication: create _publications/YYYY-MM-DD-slug.md with front matter:
+title, collection: publications, permalink, date, venue, paperurl, citation
 -->

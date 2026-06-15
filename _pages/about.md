@@ -37,6 +37,7 @@ causal structure in biological and clinical data.
 
 <ul>
 {% for item in site.data.news %}
-  <li><strong>{{ item.date }}:</strong> {{ item.text }}{% if item.link %} <a href="{{ item.link }}">{{ item.link_text }}</a>{% endif %}</li>
+  <li>{{ item.date }}: {{ item.text | markdownify | remove: '<p>' | remove: '</p>' }}{% if item.link %} <a href="{{ item.link }}">{{ item.link_text }}</a>{% endif %}</li>
 {% endfor %}
 </ul>
+
