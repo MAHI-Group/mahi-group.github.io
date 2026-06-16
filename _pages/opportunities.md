@@ -11,7 +11,7 @@ neurosymbolic AI, graph neural networks, causal machine learning, or AI for scie
 
 Strong programming skills in Python/PyTorch and a background in AI/ML or computational
 biology are valued. Email [tirtharaj@goa.bits-pilani.ac.in](mailto:tirtharaj@goa.bits-pilani.ac.in)
-with subject `[MAHI-Lab Inquiry] <Position Type>`, attaching your CV and a short
+with subject `[MAHI-Lab Enquiry] <Position Type>`, attaching your CV and a short
 statement of interest with a paragraph on *the most embarrassing research mistake so
 far in your life*.
 
