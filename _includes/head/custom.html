@@ -2,6 +2,11 @@
 
 <!-- start custom head snippets -->
 
+<!-- Motto font (full IAST/diacritic coverage) -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital@0;1&display=swap" rel="stylesheet">
+
 <style>
   html { font-size: 16px !important; }
   @media (min-width: 48em) { html { font-size: 16px !important; } }
@@ -34,6 +39,14 @@
     box-shadow: none !important;
     max-width: min(180px, 100%) !important;
     height: auto !important;
+  }
+
+  /* Motto styling */
+  .author__bio {
+    font-family: "Gentium Book Plus", Georgia, serif;
+    font-style: italic;
+    font-size: 1.05rem;
+    line-height: 1.45;
   }
 
   /* Center content (sidebar + main), equal margins both sides */
