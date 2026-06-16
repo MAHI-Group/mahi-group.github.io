@@ -19,8 +19,8 @@ comments:
 
 # Sidebar author profile.
 author:
-  name: "MAHI Lab"
-  avatar: "lab_logo_cropped.png"
+  name: #"MAHI Lab"
+  avatar: "cg_gen0.png"
   bio: "ā no bhadrāḥ kratavo yantu viśvataḥ — let noble thoughts come to us from every side."
   location: "BITS Pilani, Goa Campus, India"
   email: "tirtharaj@goa.bits-pilani.ac.in"
