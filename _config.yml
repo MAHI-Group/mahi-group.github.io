@@ -8,7 +8,7 @@ description: "Machine-and-Human Intelligence Lab, Department of Computer Science
 url: "https://mahi-group.github.io"
 baseurl: ""
 repository: "MAHI-Group/mahi-group.github.io"
-logo: "/images/lab_logo_cropped.png"
+logo: "/images/cg_gen2.png"
 words_per_minute: 160
 
 # Theme (default, air, sunrise, mint, dirt, contrast); each has light + dark, chosen by visitor OS
@@ -20,7 +20,7 @@ comments:
 # Sidebar author profile.
 author:
   name: #"MAHI Lab"
-  avatar: "cg_gen0.png"
+  avatar: "cg_gen2.png"
   bio: "ā no bhadrāḥ kratavo yantu viśvataḥ — let noble thoughts come to us from every side."
   location: "BITS Pilani, Goa Campus, India"
   email: "tirtharaj@goa.bits-pilani.ac.in"
