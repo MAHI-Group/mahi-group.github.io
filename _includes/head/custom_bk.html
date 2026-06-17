@@ -2,7 +2,7 @@
 
 <!-- start custom head snippets -->
 
-<!-- Tagline font -->
+<!-- Motto font (full IAST/diacritic coverage) -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital@0;1&display=swap" rel="stylesheet">
@@ -15,7 +15,7 @@
 
   .site-logo img { max-height: 2.8rem; }
 
-  /* Sidebar: rounded-tile logo, stacked, kept inside its own column with a gutter */
+  /* Sidebar: square logo, stacked, kept inside its own column with a gutter (no overlap) */
   .sidebar {
     padding-right: 1.5em !important;
     box-sizing: border-box !important;
@@ -33,17 +33,15 @@
   }
   .author__avatar { text-align: center; margin-bottom: 0.5rem; }
   .author__avatar img {
-    background: #ffffff !important;
-    border: 1px solid rgba(0,0,0,0.08) !important;
-    border-radius: 16px !important;
-    padding: 8px !important;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.08) !important;
-    box-sizing: border-box !important;
+    border-radius: 0 !important;
+    border: 0 !important;
+    padding: 0 !important;
+    box-shadow: none !important;
     max-width: min(180px, 100%) !important;
     height: auto !important;
   }
 
-  /* Tagline styling */
+  /* Motto styling */
   .author__bio {
     font-family: "Gentium Book Plus", Georgia, serif;
     font-style: italic;
