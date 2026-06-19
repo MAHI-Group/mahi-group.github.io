@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-We are a research group at BITS Pilani, Goa Campus working on **AI for Science**. Our core focus is on bridging the gap between human expertise and machine learning (ML). Rather than relying solely on data-driven learning, we integrate established scientific domain knowledge directly into ML models, including deep neural networks. This approach enhances both predictive performance and model explainability, enabling systems that are not only accurate but also understandable to humans. Our models do more than simply recognize patterns; they incorporate scientific understanding and communicate their reasoning in ways that scientists can interpret, trust, and act upon.
+We are a research group at BITS Pilani, Goa Campus working on **AI for Science**. Our research focuses on bridging the gap between human expertise and machine learning (ML). Rather than relying solely on data-driven learning, we integrate scientific domain knowledge directly into ML models, including deep neural networks. This improves both predictive performance and explainability, enabling AI systems that are not only accurate but also understandable, trustworthy, and useful to scientists.
 
 Our primary focus areas are these:
 
