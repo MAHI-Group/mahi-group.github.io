@@ -9,12 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-We are a research group within the BITS Pilani, Goa Campus.
-We do AI for Science: building machine intelligence that works alongside human
-reasoning to accelerate scientific discovery. 
-Our conviction is that AI systems
-must go beyond pattern recognition; they need to reason, explain, and collaborate
-with humans in the pursuit of scientific knowledge.
+We are a research group at BITS Pilani, Goa Campus working on **AI for Science**. Our core focus is on bridging the gap between human expertise and machine learning (ML). Rather than relying solely on data-driven learning, we integrate established scientific domain knowledge directly into ML models, including deep neural networks. This approach enhances both predictive performance and model explainability, enabling systems that are not only accurate but also understandable to humans. Our models do more than simply recognize patterns; they incorporate scientific understanding and communicate their reasoning in ways that scientists can interpret, trust, and act upon.
 
 Our primary focus areas are these:
 
