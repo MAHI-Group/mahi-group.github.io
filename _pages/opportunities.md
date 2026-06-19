@@ -35,7 +35,7 @@ Typical projects are in neurosymbolic
 AI, GNNs, or AI for biology. I am also open to (co-)supervising theses from outside BITS
 campuses, if the student is interested in pursuing a PhD with us later.
 
-**BITS UG Students.** Study-Oriented Projects (SOP), Practice School, and summer research
+**BITS UG Students.** Study-Oriented Projects (SOP) and summer research
 internships are available. See the
 [Summer 2026 application form](https://docs.google.com/forms/d/e/1FAIpQLSeA6SSZYMMEDYx2eTDa1xZHh4Zr10T0Lczoe373UsIGqSSEDQ/viewform?usp=header).
 Keep watching for such opportunities.
