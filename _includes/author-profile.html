@@ -25,7 +25,7 @@
     <ul class="author__urls social-icons">
       <!-- Font Awesome icons / Biographic information  -->
 	  {% if author.PI %}
-        <li class="author__desktop"><i class="fas fa-fw fa-user icon-pad-right" aria-hidden="true"></i>{{ author.PI }}</li>
+        <li class="author__desktop"><i class="fas fa-fw fa-user icon-pad-right" aria-hidden="true"></i><a href="{{ author.PI }}" target="_blank" rel="noopener noreferrer">Tirtharaj Dash (PI)</a></li>
       {% endif %}
       {% if author.location %}
         <li class="author__desktop"><i class="fas fa-fw fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</li>
