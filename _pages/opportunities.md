@@ -8,7 +8,7 @@ author_profile: true
 We are looking for motivated people to join our group. If you are interested in
 neurosymbolic AI, graph neural networks, causal machine learning, or AI for science
 (computational biology, drug discovery), read the relevant section and reach out.
-Strong programming skills in Python/PyTorch and a background in AI/ML or computational
+Strong programming skills in Python/PyTorch/Julia/R and a background in AI/ML or computational
 biology are valued.
 
 ## PhD Students and Postdocs
@@ -53,4 +53,6 @@ Email [tirtharaj@goa.bits-pilani.ac.in](mailto:tirtharaj@goa.bits-pilani.ac.in) 
 2. A half-page statement of research interest, and 
 3. An embarrassing research mistake you made.
 
-**Note.** We DO NOT have any social media presence.
+**Note.** 
+We DO NOT have any social media accounts, and we DO NOT use a separate email address for our group. 
+Everything goes straight through the PI's email, so that is the best place to reach us for any questions or collaborations!

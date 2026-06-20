@@ -72,6 +72,5 @@ longer-term goal is to build AI systems that can reason about *why* a biological
 phenomenon occurs, not just *that* it occurs, which is a prerequisite for trustworthy
 AI in science.
 
-Most of our code is publicly available at the
-[MAHI-Group GitHub organisation](https://github.com/MAHI-Group) and
+Most of our code is publicly available at [here](https://github.com/MAHI-Group) and
 [Tirtharaj's personal GitHub](https://github.com/tirtharajdash).

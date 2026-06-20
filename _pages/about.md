@@ -13,20 +13,20 @@ We are a research group at BITS Pilani, Goa Campus working on **AI for Science**
 
 Our primary focus areas are these:
 
- - **Neurosymbolic AI**: integrating deep neural networks with symbolic methods such as
-Inductive Logic Programming to build models that are accurate, interpretable, and
-data-efficient.
+ - **Neurosymbolic AI**: integrating deep neural networks with symbolic machine learning techniques such as
+Inductive Logic Programming to build models that are accurate, interpretable, and data-efficient; 
+neurosymbolic inclusion of domain-knowledge into deep networks.
 
- - **Deep learning**: sequence models, transformers, LLMs, uncertainty quantification,
-and explainability, with a focus on reliability for scientific applications. 
+ - **Deep learning**: graph neural networks, sparse neural networks, sequence models, transformers, 
+ LLMs, uncertainty quantification, and explainability, with a focus on reliability for scientific applications. 
 
- - **AI for Science**: AI for gene regulation, genomic
-foundation models, multi-omics cancer analysis, and early-stage drug discovery.
+ - **AI for Science**: AI for gene regulation, genomic foundation models, 
+ multi-omics cancer analysis, biomarker discovery, and early-stage drug discovery.
 
  - **Causal ML**: exploring causal machine learning methods that go beyond correlation to discover
 causal structure in biological and clinical data.
 
-[Read more about our research](/research/)
+Read more about [our research here](/research/).
 
 ## News
 
