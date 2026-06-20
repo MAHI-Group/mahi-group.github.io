@@ -46,23 +46,23 @@ capture regulatory and codon-usage patterns across eukaryotes.
 
 Biology is a natural domain for AI for Science: the data are vast, the problems are
 hard, and mechanistic interpretability is essential. We work on:
+ 
+  - Gene regulation: modeling the relationship between DNA sequence and gene expression.
+  - Genomic foundation models: learning general-purpose representations of genomic sequences.
+  - Multi-omics analysis: interpretable and knowledge-guided ML for biomarker discovery and 
+  disease subtyping across omics data.
+  - Drug discovery: neurosymbolic and graph neural network models for 
+  molecular property prediction, lead generation, and explainable screening.
+  - Biomedicine: analyzing video, imaging, and clinical text to support diagnosis, 
+  assessment, and decision-making.
 
-- Gene regulation: predicting gene expression from DNA sequences to understand
-  cis-regulatory logic (e.g. Camformer, *Bioinformatics Advances* 2025).
-- Genomic foundation models: learning representations of codon usage and transcript
-  stability from large-scale eukaryotic genomic datasets.
-- Multi-omics cancer analysis: Boolean and ML methods for cancer biomarker discovery,
-  macrophage polarisation, and single-cell transcriptomics.
-- Drug discovery: neurosymbolic models for novel lead generation, molecular property
-  prediction via GNNs, and explainable compound screening.
-
-Research in these directions involves collaborating with scientists from these fields.
+Research in these directions involves collaborating with scientists from different domains.
 
 ## Causal Machine Learning
 
 Correlation-based models are brittle: they fail under distribution shift and cannot
-answer interventional or counterfactual questions that science demands. We are
-interested in causal machine learning, specifically in methods that go beyond
+answer interventional or counterfactual questions that science demands. 
+We are interested in causal machine learning, specifically in methods that go beyond
 associational learning to discover and exploit causal structure in data.
 
 This includes learning causal graphs from observational and interventional data,
