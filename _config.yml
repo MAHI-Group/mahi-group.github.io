@@ -22,7 +22,7 @@ author:
   name: #"MAHI Lab"
   avatar: "cg_gen2.png"
   bio: "ā no bhadrāḥ kratavo yantu viśvataḥ — let noble thoughts come to us from every side."
-  PI: "https://tirtharajdash.github.io"
+  PI: "<a href=https://tirtharajdash.github.io" target='_blank' rel='noopener noreferrer'>Tirtharaj Dash (PI)</a>"
   location: "<a href='https://www.bits-pilani.ac.in/goa/' target='_blank' rel='noopener noreferrer'>BITS Pilani, Goa Campus</a>"  
   email: "tirtharaj@goa.bits-pilani.ac.in"
   github: "MAHI-Group"
