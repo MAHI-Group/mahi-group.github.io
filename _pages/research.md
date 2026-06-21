@@ -12,8 +12,9 @@ collaborate with humans in the pursuit of scientific knowledge. To that end, we
 develop methods that combine the scalability of modern deep learning with the
 interpretability and structure of symbolic reasoning, and apply them to real-world
 scientific problems in computational biology and drug discovery. 
-But if you think your problem is important and you want to collaborate with us, 
-please feel free to write to the PI.
+We welcome collaborations on complex, real-world problems; 
+if you are interested in working together, 
+please feel free to [write to the PI](mailto:tirtharaj@goa.bits-pilani.ac.in).
 
 ## Neurosymbolic AI
 
