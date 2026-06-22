@@ -10,6 +10,7 @@ baseurl: ""
 repository: "MAHI-Group/mahi-group.github.io"
 logo: "/images/cg_gen2.png"
 words_per_minute: 160
+teaser: "cg_gen2.png"
 
 # Theme (default, air, sunrise, mint, dirt, contrast); each has light + dark, chosen by visitor OS
 site_theme: "sunrise"
