@@ -1,6 +1,10 @@
 # Add news items here. Newest first.
 # Fields: date, text, link (optional), link_text (optional)
 
+- date: "07 Jul 2026"
+  text: >
+    BIRDNet paper got accepted at [CIKM 2026](https://cikm2026.diag.uniroma1.it/).
+
 - date: "05 Jun 2026"
   text: >
     pVR paper is out. Check the preprint on [arXiv](https://arxiv.org/abs/2606.06117).
