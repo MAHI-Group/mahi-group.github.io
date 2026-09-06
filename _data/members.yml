@@ -15,11 +15,22 @@ principal_investigator:
     github: https://github.com/tirtharajdash
     cv: https://tirtharajdash.github.io/vitae/TirtharajDash.pdf
 
-phd_students: []
+phd_students:
+  - name: Priti Adinath Shinde
+    role: PhD Student (Part-Time; Coursework Phase); Working in LTIMindtree
+    photo: 
+    website: https://in.linkedin.com/in/priti-shinde-265985192
+  - name: Mithul Mani
+    role: PhD Student (Part-Time; Coursework Phase); Working in PwC
+    photo: 
+    website: https://in.linkedin.com/in/mithul-mani
 
 postdocs: []
 
-project_students:
+project_students: []
+  
+
+alumni: 
   - name: Ramayanam Naga Achyuth
     role: Summer Research Student, BGSRP 2026 Program
     photo: 
@@ -43,5 +54,3 @@ project_students:
       Hitaeshi is working on protein representation learning.
     website: https://linkedin.com/in/hitaeshi-sehgal-1b5aa32a8
     github: https://github.com/littlemissmuffins
-
-alumni: []
